@@ -1,6 +1,10 @@
+
+
 [
     
-   {
+    
+    
+ {
   
      "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
       "name": "Eкапуста",
@@ -13,7 +17,7 @@
  
 	"term_to": "160",
    
-     "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=mtoday",
+     "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=vesmen",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -30,22 +34,24 @@
   }
     
     
-,  
- 
+,
+    
+    
+    
  {
   
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-      "name": "Тинькофф Банк",
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+      "name": "Вива деньги",
      "rating": 5,
      "age": "18-65",
-    "percent": "3.9%",
-	"sum_one": "до 15 000 000",
+    "percent": "0%",
+	"sum_one": "до 80 000 руб",
 		"sum_min": "до 1 000 руб",
- "days_info": "от 12 - 180 месяцев",
+ "days_info": "до 360 дней",
  
 	"term_to": "160",
    
-     "url": "https://www.banki.ru/banks/bank/tcs/",
+     "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=vesmen",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -66,23 +72,120 @@
 
 
 
-
-
-
+    
  {
   
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
-      "name": "Восточный Банк",
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+      "name": "Турбозайм",
      "rating": 5,
      "age": "18-65",
-    "percent": "9% годовых",
-	"sum_one": "до 3 000 000",
+    "percent": "1%",
+	"sum_one": "до 80 000 руб",
 		"sum_min": "до 1 000 руб",
- "days_info": "от 13 - 60 месяцев",
+ "days_info": "до 360 дней",
  
 	"term_to": "160",
    
-     "url": "https://www.vostbank.ru/",
+     "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+  
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
+      "name": "Веббанкир",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 15 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/fac9aa98231e5d562f152a1905492616?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+ 
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
+      "name": "PayPS",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 15 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/8fe41bc92c683b08edad6a507e2b6ad3?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+ 
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+      "name": "Быстроденьги",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 15 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=vesmen",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -103,21 +206,20 @@
 
 
 
-
  {
   
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-      "name": "ХОУМ КРЕДИТ",
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+      "name": "До Зарплаты",
      "rating": 5,
      "age": "18-65",
-    "percent": "10% годовых",
-	"sum_one": "до 700 000",
+    "percent": "0%",
+	"sum_one": "до 100 000 руб",
 		"sum_min": "до 1 000 руб",
- "days_info": "от 2х до 36 месяцев",
+ "days_info": "до 360 дней",
  
 	"term_to": "160",
    
-     "url": "https://www.homecredit.ru",
+     "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=vesmen",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -133,6 +235,240 @@
 
   }
     
+    
+,
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
+      "name": "Max.Credit",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 30 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/creditog.png",
+      "name": "Kredito24",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 15 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/b1b102a095691aafd303d750bbd36a77?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ssmm.png",
+      "name": "СмсФинанс",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 30 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/7f62d7c4f6ebda33e5152f4fc28ed151?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sevens.png",
+      "name": "Credit7",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 80 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/bacb8c21358a3427da3ce00e150aa7d5?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/creps.png",
+      "name": "CreditPlus",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 30 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/5d19c9a46b73d93ee84ba70ee533b492?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",
+      "name": "Бустра",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 30 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/a9ab2d84587cb6b14e3e6ea3d5357865?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+    
+,
+
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+      "name": "Вебзайм",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 30 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=vesmen",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+    
+ 
     
 
 
