@@ -1,6 +1,36 @@
 [
     
+   {
+  
+     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+      "name": "Eкапуста",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0%",
+	"sum_one": "до 30 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "до 360 дней",
+ 
+	"term_to": "160",
+   
+     "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=mtoday",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
     
+    
+,  
  
  {
   
