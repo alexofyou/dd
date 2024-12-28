@@ -1,0 +1,65 @@
+[
+    
+    
+ 
+ {
+   "rating": 5.0,
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "sum_one": "12 000 грн",
+     "percent": "1%",
+"days_info": "до 180 дней",
+  "url": "https://google.com"
+         }
+    
+    
+,
+
+
+ {
+   "rating": 4.5,
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    	"sum_one": "12 000 грн",
+      "percent": "0%",
+ "days_info": "до 180 дней",
+   "url": "https://google.com"
+  
+    }
+    
+ ,
+ {
+      "rating": 4.5,
+      "odobrenie": "95%",
+  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+	"sum_one": "12 000 руб",
+  "percent": "0%",
+"age": "от 18 лет",
+  "url": "https://google.com"
+        
+  
+    }
+    
+    
+,
+
+
+ {
+   "rating": 4.7,
+    "odobrenie": "90%",
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+	"sum_one": "120 000 руб,
+  "percent": "1%",
+"age": "от 18 лет",
+   "url": "https://google.com"
+  
+    }
+    
+
+
+
+
+ 
+   
+   
+  
+  
+]
