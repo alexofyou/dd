@@ -4,35 +4,24 @@
  
  {
    "rating": 5.0,
-     "image_url": "https://www.digital.pumb.ua/assets/svg/fuib-new-logo.svg",
+     "image_url": "https://ideabank.ua/static/img/logo/logo.svg",
      "sum_one": "12 000 грн",
      "percent": "1%",
-"days_info": "до 180 дней",
-  "url": "https://www.digital.pumb.ua/microcredit/apply-for-loan"
+"days_info": " ",
+  "url": "https://ideabank.ua/uk/product/i-credits"
          }
     
     
-,
 
-
- {
-   "rating": 4.5,
-     "image_url": "https://ideabank.ua/static/img/logo/logo.svg",
-    	"sum_one": "12 000 грн",
-      "percent": "0%",
- "days_info": "до 180 дней",
-   "url": "https://ideabank.ua/uk/product/i-credits"
-  
-    }
     
  ,
  {
       "rating": 4.5,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sense_bank_logo.svg/2560px-Sense_bank_logo.svg.png",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pumb_logo.svg/407px-Pumb_logo.svg.png",
 	"sum_one": "12 000 грн",
   "percent": "0%",
- "days_info": "до 180 дней",
-  "url": "https://landing.sensebank.com.ua/cash/"
+ "days_info": " ",
+  "url": "https://www.digital.pumb.ua/microcredit/apply-for-loan"
         
   
     }
