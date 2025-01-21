@@ -4,11 +4,11 @@
  
  {
    "rating": 5.0,
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "image_url": "https://www.digital.pumb.ua/assets/svg/fuib-new-logo.svg",
      "sum_one": "12 000 грн",
      "percent": "1%",
 "days_info": "до 180 дней",
-  "url": "https://google.com"
+  "url": "https://www.digital.pumb.ua/microcredit/apply-for-loan"
          }
     
     
@@ -17,40 +17,28 @@
 
  {
    "rating": 4.5,
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+     "image_url": "https://ideabank.ua/static/img/logo/logo.svg",
     	"sum_one": "12 000 грн",
       "percent": "0%",
  "days_info": "до 180 дней",
-   "url": "https://google.com"
+   "url": "https://ideabank.ua/uk/product/i-credits"
   
     }
     
  ,
  {
       "rating": 4.5,
-  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sense_bank_logo.svg/2560px-Sense_bank_logo.svg.png",
 	"sum_one": "12 000 грн",
   "percent": "0%",
  "days_info": "до 180 дней",
-  "url": "https://google.com"
+  "url": "https://landing.sensebank.com.ua/cash/"
         
   
     }
     
     
-,
 
-
- {
-   "rating": 4.7,
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-	"sum_one": "12 000 грн",
-  "percent": "1%",
- "days_info": "до 180 дней",
-   "url": "https://google.com"
-  
-    }
-    
 
 
 
