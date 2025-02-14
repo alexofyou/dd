@@ -1,4 +1,10 @@
-[{
+
+
+
+
+
+
+{
 "image_url": "https://bank.yuga.ru/media/4/3/3/bhc_pad20170718T121921.jpg",
       "name": "Тинькофф Банк",
      "rating": 5,
@@ -13,19 +19,223 @@
     
 ,
 
+[
+
+
+  {
+
+         "name": "Slon credit",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sslon.jpg",
+        "rating": 5,
+        "sum_one": "до 25 000 грн.",
+        "percent": "0%",
+        "url": "https://a.sdt.com.ua/hczww5kh?buyer_id=Alex&sub2=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    },
+
+{
+
+         "name": "First credit",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffones.png",
+        "rating": 5,
+        "sum_one": "до 20 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/mu566ea98ceaa072?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    }
+  ,
+
+   {
+    
+      "name": "Credit kasa",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/kassa.png",
+    "rating": 4,
+    "sum_one": "до 20 000 грн.",
+    "days_info": "",
+    "percent": "0%",
+    "url": "https://tds.pdl-profit.com/h/ler6757f629315a9?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+},
+
+ 
+ {
+
+        "name": "Tengo",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
+        "rating": 5,
+        "sum_one": "до 17 000 грн.",
+        "percent": "1%",
+        "url": "https://tds.pdl-profit.com/h/ltc63d0fac050b4a?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    },
+
+
+
+
+  
+ {
+
+          "name": "Selfi credit",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/selfdit.png",
+        "rating": 5,
+        "sum_one": "до 25 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/m4u62fa00cda5e05?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    },
 
  {
-"image_url": "https://www.sostav.ru/images/news/2023/06/07/rkpkqu94.jpg",
-      "name": "Тинькофф Банк",
-     "rating": 5,
-     "percent": "3.9%",
-	"sum_one": "до 15 000 руб",
- "url": "https://sovcombank.ru/apply/credit/houm-kredit-nalichnymi/",
- "nalichnie": true,
+
+         "name": "Avans credit",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/aavans.png",
+        "rating": 4,
+        "sum_one": "до 20 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/mjm6450a43e432b3?subid=a3",
+ "nalichnie": false,
 	"nakartu": true,
-	"zafiveminut": false,
-	"kruglosutochno": true }
+	"zafiveminut": true,
+	"kruglosutochno": true
+    },
+
+
+   
+  
+ 
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+  
+ {
+
+        "name": "Miloan",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/miloo.png",
+        "rating": 5,
+        "sum_one": "до 17 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/ld4635a970b2969e?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    },
+
+
+
+ 
+     {
+
+        "name": "Shvudko groshi",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sgroshi.png",
+        "rating": 4,
+        "sum_one": "до 20 000 грн.",
+        "percent": "1%",
+        "url": "https://tds.pdl-profit.com/h/mp566ea98d3d91c9?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    },
+
+ 
+
+  
+  {
+ "name": "Credit plus",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/crep.png",
+        "rating": 5,
+        "sum_one": "до 15 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/lde632fa5490a91b?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    } ,
+ 
+ {
+
+         "name": "Moneyveo",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vveo.png",
+        "rating": 5,
+        "sum_one": "до 17 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/ldg63cce0581cc25?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    } ,
+
+  
+
+ 
+
+
+
+
+ 
+
+  
+
     
-    
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+{
+
+        "name": "Credit 7",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cret7.png",
+        "rating": 4,
+        "sum_one": "до 25 000 грн.",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/ld3641d7bf950a93?subid=a3",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+    }
+
 
 ]
