@@ -3,29 +3,20 @@
 
 
  {
-
-
-     
-       
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+      
+        "name": "Тинькофф Банк",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
         "rating": 4,
-        "sum_one": "до 70 000 руб.",
+        "sum_one": "до 15 000",
        
         "percent": "0%",
-        "url": "https://trkleads.ru/click/7a4179a5b479c03ad890f7d83e5a72c8?aff_sub1=as"
- 
-
-
-"name": "Лайм займ",
-
- "nalichnie": false,
+        "url": "https://trkleads.ru/click/79732fa9329cbdd4cd82b5730dd19267?aff_sub1=dto"
+"nalichnie": true,
 	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-    },
-    
+	"zafiveminut": false,
+	"kruglosutochno": true    
+ },
+  
 
 {
 "image_url": "https://irecommend.ru/sites/default/files/product-images/1/vost_thumb_main.gif",
