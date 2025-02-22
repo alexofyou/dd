@@ -36,7 +36,7 @@
 
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
-      "name": "До Зарплатs",
+      "name": "До Зарплаты",
      "rating": 5,
      "percent": "0%",
 	"sum_one": "до 100 000 руб",
@@ -50,12 +50,42 @@
 ,
 
 {
-"image_url": "https://irecommend.ru/sites/default/files/product-images/1/vost_thumb_main.gif",
-      "name": "Тинькофф Банк",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/migs.png",
+      "name": "Миг Кредит",
      "rating": 5,
-     "percent": "3.9%",
+     "percent": "0%",
 	"sum_one": "до 15 000 руб",
- "url": "https://www.banki.ru/banks/bank/tcs/",
+ "url": "https://trkleads.ru/click/322335be85362739eb3bd48772e72b72?aff_sub1=dto",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+      "name": "Екапуста",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 30 000 руб",
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=dto",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+      "name": "Moneyman",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 80 000 руб",
+ "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=dto",
  "nalichnie": false,
 	"nakartu": true,
 	"zafiveminut": true,
@@ -65,17 +95,80 @@
 ,
 
 
- {
-"image_url": "https://www.sostav.ru/images/news/2023/06/07/rkpkqu94.jpg",
-      "name": "Тинькофф Банк",
+
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+      "name": "Вебзайм",
      "rating": 5,
-     "percent": "3.9%",
-	"sum_one": "до 15 000 руб",
- "url": "https://www.homecredit.ru",
- "nalichnie": true,
+     "percent": "0%",
+	"sum_one": "до 80 000 руб",
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=dto",
+ "nalichnie": false,
 	"nakartu": true,
-	"zafiveminut": false,
+	"zafiveminut": true,
 	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+      "name": "Турбозайм",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 50 000 руб",
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=dto",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
+      "name": "Веббанкир",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 15 000 руб",
+ "url": "https://trkleads.ru/click/fac9aa98231e5d562f152a1905492616?aff_sub1=dto",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+      "name": "Вива деньги",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 80 000 руб",
+ "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=dto",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+
+
     
     
 
