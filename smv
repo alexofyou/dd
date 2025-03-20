@@ -1,13 +1,9 @@
 
 
 
-
-
-
-
-
-
 [
+
+
 
 {
 "image_url": "https://static.tildacdn.com/tild6563-3866-4533-a666-323266393162/zajmer-.jpg",
@@ -15,7 +11,7 @@
      "rating": 5,
      "percent": "0%",
 	"sum_one": "до 15 000 руб",
- "url": "https://trkleads.ru/click/79732fa9329cbdd4cd82b5730dd19267?aff_sub1=dto",
+ "url": "https://trkleads.ru/click/79732fa9329cbdd4cd82b5730dd19267?aff_sub1=formsa",
  "nalichnie": false,
 	"nakartu": true,
 	"zafiveminut": true,
@@ -24,220 +20,159 @@
     
 ,
 
-  {
-
-         "name": "Slon credit",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sslon.jpg",
-        "rating": 5,
-        "sum_one": "до 25 000 грн.",
-        "percent": "0%",
-        "url": "https://a.sdt.com.ua/hczww5kh?buyer_id=Alex&sub2=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    },
 
 {
-
-         "name": "First credit",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffones.png",
-        "rating": 5,
-        "sum_one": "до 20 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/mu566ea98ceaa072?subid=a4",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+      "name": "Лайм займ",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 70 000 руб",
+ "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=formsa",
  "nalichnie": false,
 	"nakartu": true,
 	"zafiveminut": true,
-	"kruglosutochno": true
-    }
-  ,
-
-   {
+	"kruglosutochno": true }
     
-      "name": "Credit kasa",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/kassa.png",
-    "rating": 4,
-    "sum_one": "до 20 000 грн.",
-    "days_info": "",
-    "percent": "0%",
-    "url": "https://tds.pdl-profit.com/h/ler6757f629315a9?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-},
-
- 
- {
-
-        "name": "Tengo",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
-        "rating": 5,
-        "sum_one": "до 17 000 грн.",
-        "percent": "1%",
-        "url": "https://tds.pdl-profit.com/h/ltc63d0fac050b4a?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    },
-
-
-
-
-  
- {
-
-          "name": "Selfi credit",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/selfdit.png",
-        "rating": 5,
-        "sum_one": "до 25 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/m4u62fa00cda5e05?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    },
-
- {
-
-         "name": "Avans credit",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/aavans.png",
-        "rating": 4,
-        "sum_one": "до 20 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/mjm6450a43e432b3?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    },
-
-
-   
-  
- 
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-  
- {
-
-        "name": "Miloan",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/miloo.png",
-        "rating": 5,
-        "sum_one": "до 17 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/ld4635a970b2969e?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    },
-
-
-
- 
-     {
-
-        "name": "Shvudko groshi",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sgroshi.png",
-        "rating": 4,
-        "sum_one": "до 20 000 грн.",
-        "percent": "1%",
-        "url": "https://tds.pdl-profit.com/h/mp566ea98d3d91c9?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    },
-
- 
-
-  
-  {
- "name": "Credit plus",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/crep.png",
-        "rating": 5,
-        "sum_one": "до 15 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/lde632fa5490a91b?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    } ,
- 
- {
-
-         "name": "Moneyveo",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vveo.png",
-        "rating": 5,
-        "sum_one": "до 17 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/ldg63cce0581cc25?subid=a4",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-    } ,
-
-  
-
- 
-
-
-
-
- 
-
-  
-
     
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-  
+,
 
 
 {
-
-        "name": "Credit 7",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cret7.png",
-        "rating": 4,
-        "sum_one": "до 25 000 грн.",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/ld3641d7bf950a93?subid=a4",
+"image_url": "https://storage.yandexcloud.net/wp-dzp-prod/2018/12/logo_DZP1-e1545386325353.jpg",
+      "name": "До Зарплаты",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 100 000 руб",
+ "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=formsa",
  "nalichnie": false,
 	"nakartu": true,
 	"zafiveminut": true,
-	"kruglosutochno": true
-    }
+	"kruglosutochno": true }
+    
+    
+,
 
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/migs.png",
+      "name": "Миг Кредит",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 15 000 руб",
+ "url": "https://trkleads.ru/click/322335be85362739eb3bd48772e72b72?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+      "name": "Екапуста",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 30 000 руб",
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+      "name": "Moneyman",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 80 000 руб",
+ "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+{
+"image_url": "https://creditonline.su/wp-content/uploads/2017/09/Podlozhka-logo-Veb-Zajm.png",
+      "name": "Вебзайм",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 80 000 руб",
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+      "name": "Турбозайм",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 50 000 руб",
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+
+{
+"image_url": "https://www.bankdelo.ru/site/public/files/14/13882-webb.jpg",
+      "name": "Веббанкир",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 15 000 руб",
+ "url": "https://trkleads.ru/click/fac9aa98231e5d562f152a1905492616?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+,
+
+
+
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+      "name": "Вива деньги",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 80 000 руб",
+ "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=formsa",
+ "nalichnie": false,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true }
+    
+    
+
+
+    
+    
 
 ]
