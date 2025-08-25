@@ -1,27 +1,122 @@
-[{
-"image_url": "https://store.bankiros.ru/source/1/imrH5KtE5EdZr4wQFRz-nzDWc3PTpCpv.jpg",
-      "name": "21 день без процентов",
-     "rating": 5,
-   "age":"от 18 лет",
-	"sum_one": "от 6 000 до 15 000 руб",
-	"odobrenie": "Высокое",
- "url": "https://sovcombank.ru/apply/credit/dkpza/pkw/?internal_source=main_vygodnyi_order#personal-form"
+
+
+
+
+
+
+[
+
+ {
+ 	"name": "0% на первый займ",
+ 	"odobrenie": "Высокое",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
+"age": "От 18 лет",
+"sum_one": "от 100 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=zpnonline"
 }
-    
-    
+
 ,
 
 
  {
-"image_url": "https://bank.yuga.ru/media/4/3/3/bhc_pad20170718T121921.jpg",
-      "name": "МКК «Умные наличные» — Займы на карту за 15 минут",
-     "rating": 4,
- "age":"от 18 лет",
-	"odobrenie": "Низкое",
-    	"sum_one": "от 6 000 до 15 000 руб",
- "url": "https://sovcombank.ru/apply/credit/houm-kredit-nalichnymi/"
+
+ 	"odobrenie": "Высокое",
+	"name": "Быстрое решение онлайн",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
+"age": "От 18 лет",
+"sum_one": "от 3 000 до 100 000 руб",
+
+ "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=zpnonline"
+}
+,
+
+{
+ 	"odobrenie": "Высокое",
+"name": "Ваш займ за 5 минут",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+"age": "От 18 лет",
+"sum_one": "от 100 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=zpnonline&erid=2W5zFJkUBEY"
+}
+
+,
+
+
+{
+ 	"odobrenie": "Высокое",
+ "name": "Кредит без поручителей",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+"age": "От 18 лет",
+"sum_one": "от 100 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=zpnonline"
+}
+
+,
+
+
+
+
+ {
+
+ 	"odobrenie": "Высокое",
+ "name": "0% на первый займ",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
+"age": "От 18 лет",
+"sum_one": "от 3 000 до 50 000 руб",
+
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=zpnonline"
+}
+
+,
+
+
+ {
+
+ 	"odobrenie": "Высокое",
+ "name": "Прозрачные ставки",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",   
+"age": "От 18 лет",
+"sum_one": "от 3 000 до 50 000 руб",
+
+ "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=zpnonline"
+}
+
+,
+
+
+
+ {
+"odobrenie": "Высокое",
+ "name": "Без скрытых платежей",
+"rating": 4,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",   
+
+"sum_one": "от 2 000 до 100 000 руб",
+"age": "От 18 лет",
+
+ "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=zpnonline"
 }
     
-    
+,
 
-]
+
+{
+	"odobrenie": "Высокое",
+ "name": "Простое оформление",
+"rating": 4,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+  "age": "От 18 лет",
+	"sum_one": "от 4 000 до 80 000 руб",
+ "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=zpnonline"
+}
+    
+  ]
